@@ -1,0 +1,16 @@
+PODS:
+  - HWDownLoader (0.1.0)
+
+DEPENDENCIES:
+  - HWDownLoader (from `../`)
+
+EXTERNAL SOURCES:
+  HWDownLoader:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HWDownLoader: 6cfb590e9838e5a70f6b0c8b7de38b7e770243ad
+
+PODFILE CHECKSUM: dd4c03a06a2c8f1bcc3ef6bcc835cd7482185272
+
+COCOAPODS: 1.6.1

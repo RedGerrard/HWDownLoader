@@ -1,0 +1,6 @@
+framework module HWDownLoader {
+  umbrella header "HWDownLoader-umbrella.h"
+
+  export *
+  module * { export * }
+}
