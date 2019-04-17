@@ -28,7 +28,7 @@ typedef NS_ENUM(NSUInteger, HWDownLoadState) {
  @param url 下载网址
  @param downLoadInfoBlock 获取下载文件大小的回调
  @param progressBlock 获取下载进度的回调
- @param stateChangeType 下载状态更新的回调
+ @param stateChangeBlock 下载状态更新的回调
  @param successBlock 下载成功的回调
  @param failedBlock 下载失败的回调
  */
